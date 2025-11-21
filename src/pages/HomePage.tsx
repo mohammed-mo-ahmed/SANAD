@@ -18,7 +18,6 @@ function HomePage({ onLanguageSelect }: HomePageProps) {
       <div className="text-center bg-white/70 p-10 rounded-3xl shadow-xl">
         <div className="mb-12">
           <h1 className="text-5xl font-bold text-gray-800 mb-3">SANAD Smart Belt</h1>
-          <p className="text-xl text-gray-600">Select Your Language</p>
         </div>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
